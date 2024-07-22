@@ -1,0 +1,4 @@
+[07-Aug-2022 13:44:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/dtc/public_html/masterfile/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dtc/public_html/masterfile/bootstrap/app.php on line 14

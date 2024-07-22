@@ -1,0 +1,5 @@
+[07-Aug-2022 13:44:33 UTC] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/dtc/public_html/masterfile/app/Providers/AppServiceProvider.php on line 7
+[07-Aug-2022 13:44:33 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Support\Providers\RouteServiceProvider' not found in /home/dtc/public_html/masterfile/app/Providers/RouteServiceProvider.php on line 8
+[07-Aug-2022 13:44:33 UTC] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/dtc/public_html/masterfile/app/Providers/BroadcastServiceProvider.php on line 8
+[07-Aug-2022 13:44:33 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home/dtc/public_html/masterfile/app/Providers/AuthServiceProvider.php on line 8
+[07-Aug-2022 13:44:33 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Support\Providers\EventServiceProvider' not found in /home/dtc/public_html/masterfile/app/Providers/EventServiceProvider.php on line 8

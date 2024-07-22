@@ -1,0 +1,1 @@
+[07-Aug-2022 13:44:33 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/dtc/public_html/masterfile/app/Exceptions/Handler.php on line 9

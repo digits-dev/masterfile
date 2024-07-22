@@ -1,0 +1,1 @@
+[07-Aug-2022 13:44:25 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/dtc/public_html/masterfile/tests/TestCase.php on line 7

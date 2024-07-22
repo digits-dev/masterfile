@@ -1,0 +1,297 @@
+[04-Oct-2019 11:21:35 Asia/Manila] PHP Fatal error:  Class 'App\Http\Controllers\WarehouseInventoryReport' not found in /home/glennong/public_html/reports/app/Http/Controllers/AdminBatchInformationsController.php on line 428
+[04-Oct-2019 11:21:39 Asia/Manila] PHP Fatal error:  Class 'App\Http\Controllers\WarehouseInventoryReport' not found in /home/glennong/public_html/reports/app/Http/Controllers/AdminBatchInformationsController.php on line 428
+[04-Oct-2019 14:02:29 Asia/Manila] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 90 bytes) in /home/glennong/public_html/reports/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 1578
+[04-Oct-2019 14:11:03 Asia/Manila] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 84 bytes) in /home/glennong/public_html/reports/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 1578
+[04-Oct-2019 14:12:20 Asia/Manila] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 84 bytes) in /home/glennong/public_html/reports/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 1578
+[04-Oct-2019 17:51:36 Asia/Manila] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 32 bytes) in /home/glennong/public_html/reports/app/Http/Controllers/AdminStoreInventoryReportsController.php on line 906
+[05-Oct-2019 10:51:27 Asia/Manila] PHP Fatal error:  Call to undefined function App\Http\Controllers\is_empty() in /home/glennong/public_html/reports/app/Http/Controllers/AdminCmsUsersController.php on line 84
+[05-Oct-2019 13:23:13 Asia/Manila] PHP Fatal error:  Call to undefined function App\Http\Controllers\json() in /home/glennong/public_html/reports/app/Http/Controllers/AdminStoreInventoryReportsController.php on line 1096
+[05-Oct-2019 15:38:00 Asia/Manila] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 85 bytes) in /home/glennong/public_html/reports/vendor/phpoffice/phpexcel/Classes/PHPExcel/CachedObjectStorage/CacheBase.php on line 177
+[06-Oct-2019 15:39:29 Asia/Manila] PHP Fatal error:  Class 'App\Http\Controllers\SalesReport' not found in /home/glennong/public_html/reports/app/Http/Controllers/AdminBatchInformationsController.php on line 495
+[06-Oct-2019 16:08:36 Asia/Manila] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 79 bytes) in /home/glennong/public_html/reports/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 1469
+[06-Oct-2019 18:05:09 Asia/Manila] PHP Fatal error:  Call to a member function where() on null in /home/glennong/public_html/reports/app/Http/Controllers/AdminWarehouseInventoryReportsController.php on line 1091
+[06-Oct-2019 18:05:15 Asia/Manila] PHP Fatal error:  Call to a member function where() on null in /home/glennong/public_html/reports/app/Http/Controllers/AdminWarehouseInventoryReportsController.php on line 1091
+[06-Oct-2019 18:05:26 Asia/Manila] PHP Fatal error:  Call to a member function where() on null in /home/glennong/public_html/reports/app/Http/Controllers/AdminWarehouseInventoryReportsController.php on line 1091
+[06-Oct-2019 18:05:26 Asia/Manila] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 85 bytes) in /home/glennong/public_html/reports/app/Http/Controllers/AdminSalesReportsController.php on line 1005
+[06-Oct-2019 18:05:32 Asia/Manila] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 92 bytes) in /home/glennong/public_html/reports/app/Http/Controllers/AdminSalesReportsController.php on line 1005
+[06-Oct-2019 18:06:57 Asia/Manila] PHP Fatal error:  Call to a member function where() on null in /home/glennong/public_html/reports/app/Http/Controllers/AdminWarehouseInventoryReportsController.php on line 1091
+[06-Oct-2019 18:07:29 Asia/Manila] PHP Fatal error:  Call to a member function where() on null in /home/glennong/public_html/reports/app/Http/Controllers/AdminWarehouseInventoryReportsController.php on line 1091
+[06-Oct-2019 18:16:32 Asia/Manila] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 134217728 bytes) in /home/glennong/public_html/reports/vendor/phpoffice/phpexcel/Classes/PHPExcel/Worksheet.php on line 1213
+[07-Oct-2019 18:11:20 Asia/Manila] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 79 bytes) in /home/glennong/public_html/reports/vendor/phpoffice/phpexcel/Classes/PHPExcel/CachedObjectStorage/Memory.php on line 107
+[07-Oct-2019 18:13:56 Asia/Manila] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 79 bytes) in /home/glennong/public_html/reports/vendor/phpoffice/phpexcel/Classes/PHPExcel/CachedObjectStorage/Memory.php on line 107
+[08-Oct-2019 11:15:29 Asia/Manila] PHP Fatal error:  Class 'App\Http\Controllers\Customer' not found in /home/glennong/public_html/reports/app/Http/Controllers/AdminBatchInformationsController.php on line 554
+[08-Oct-2019 07:28:08 UTC] PHP Fatal error:  Cannot destroy active lambda function in [no active file] on line 0
+[08-Oct-2019 15:42:51 Asia/Manila] PHP Warning:  Unterminated comment starting line 355 in /home/glennong/public_html/reports/app/Http/Controllers/AdminSalesReportsController.php on line 355
+[08-Oct-2019 15:42:51 Asia/Manila] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/glennong/public_html/reports/app/Http/Controllers/AdminSalesReportsController.php on line 357
+[08-Oct-2019 07:47:17 UTC] PHP Fatal error:  Cannot destroy active lambda function in [no active file] on line 0
+[08-Oct-2019 08:36:38 UTC] PHP Fatal error:  Cannot destroy active lambda function in [no active file] on line 0
+[08-Oct-2019 08:45:08 UTC] PHP Fatal error:  Cannot destroy active lambda function in [no active file] on line 0
+[09-Oct-2019 19:49:31 Asia/Manila] PHP Parse error:  syntax error, unexpected ':', expecting ';' or '{' in /home/glennong/public_html/reports/vendor/doctrine/inflector/lib/Doctrine/Common/Inflector/Inflector.php on line 265
+[09-Oct-2019 19:49:44 Asia/Manila] PHP Parse error:  syntax error, unexpected ':', expecting ';' or '{' in /home/glennong/public_html/reports/vendor/doctrine/inflector/lib/Doctrine/Common/Inflector/Inflector.php on line 265
+[09-Oct-2019 19:50:15 Asia/Manila] PHP Parse error:  syntax error, unexpected ':', expecting ';' or '{' in /home/glennong/public_html/reports/vendor/doctrine/inflector/lib/Doctrine/Common/Inflector/Inflector.php on line 265
+[09-Oct-2019 19:50:20 Asia/Manila] PHP Parse error:  syntax error, unexpected ':', expecting ';' or '{' in /home/glennong/public_html/reports/vendor/doctrine/inflector/lib/Doctrine/Common/Inflector/Inflector.php on line 265
+[09-Oct-2019 19:50:43 Asia/Manila] PHP Parse error:  syntax error, unexpected ':', expecting ';' or '{' in /home/glennong/public_html/reports/vendor/doctrine/inflector/lib/Doctrine/Common/Inflector/Inflector.php on line 265
+[09-Oct-2019 19:50:45 Asia/Manila] PHP Parse error:  syntax error, unexpected ':', expecting ';' or '{' in /home/glennong/public_html/reports/vendor/doctrine/inflector/lib/Doctrine/Common/Inflector/Inflector.php on line 265
+[09-Oct-2019 20:36:42 Asia/Manila] PHP Fatal error:  Call to a member function startOfMonth() on string in /home/glennong/public_html/reports/app/Http/Controllers/AdminStoreInventoryReportsController.php on line 318
+[09-Oct-2019 20:38:03 Asia/Manila] PHP Fatal error:  Call to a member function startOfMonth() on string in /home/glennong/public_html/reports/app/Http/Controllers/AdminStoreInventoryReportsController.php on line 318
+[09-Oct-2019 20:38:04 Asia/Manila] PHP Fatal error:  Call to a member function startOfMonth() on string in /home/glennong/public_html/reports/app/Http/Controllers/AdminStoreInventoryReportsController.php on line 318
+[09-Oct-2019 20:38:09 Asia/Manila] PHP Fatal error:  Call to a member function startOfMonth() on string in /home/glennong/public_html/reports/app/Http/Controllers/AdminStoreInventoryReportsController.php on line 318
+[09-Oct-2019 20:39:24 Asia/Manila] PHP Fatal error:  Call to a member function startOfMonth() on string in /home/glennong/public_html/reports/app/Http/Controllers/AdminStoreInventoryReportsController.php on line 319
+[09-Oct-2019 20:43:19 Asia/Manila] PHP Parse error:  syntax error, unexpected ')' in /home/glennong/public_html/reports/app/Http/Controllers/AdminStoreInventoryReportsController.php on line 323
+[09-Oct-2019 20:43:21 Asia/Manila] PHP Parse error:  syntax error, unexpected ')' in /home/glennong/public_html/reports/app/Http/Controllers/AdminStoreInventoryReportsController.php on line 323
+[09-Oct-2019 20:43:25 Asia/Manila] PHP Parse error:  syntax error, unexpected ')' in /home/glennong/public_html/reports/app/Http/Controllers/AdminStoreInventoryReportsController.php on line 323
+[09-Oct-2019 20:44:04 Asia/Manila] PHP Parse error:  syntax error, unexpected ')' in /home/glennong/public_html/reports/app/Http/Controllers/AdminStoreInventoryReportsController.php on line 323
+[09-Oct-2019 20:44:07 Asia/Manila] PHP Parse error:  syntax error, unexpected ')' in /home/glennong/public_html/reports/app/Http/Controllers/AdminStoreInventoryReportsController.php on line 323
+[09-Oct-2019 20:47:59 Asia/Manila] PHP Fatal error:  Class 'App\Http\Controllers\FinalTaggingSchedule' not found in /home/glennong/public_html/reports/app/Http/Controllers/AdminWarehouseInventoryReportsController.php on line 316
+[10-Oct-2019 13:06:21 Asia/Manila] PHP Fatal error:  Class 'App\Http\Controllers\DateTime' not found in /home/glennong/public_html/reports/app/Http/Controllers/AdminPendingApprovalsController.php on line 489
+[10-Oct-2019 09:25:32 UTC] PHP Fatal error:  Cannot destroy active lambda function in [no active file] on line 0
+[10-Oct-2019 10:16:13 UTC] PHP Fatal error:  Cannot destroy active lambda function in [no active file] on line 0
+[10-Oct-2019 10:53:44 UTC] PHP Fatal error:  Cannot destroy active lambda function in [no active file] on line 0
+[10-Oct-2019 13:15:14 UTC] PHP Fatal error:  Cannot destroy active lambda function in [no active file] on line 0
+[10-Oct-2019 13:21:43 UTC] PHP Fatal error:  Cannot destroy active lambda function in [no active file] on line 0
+[10-Oct-2019 13:29:12 UTC] PHP Fatal error:  Cannot destroy active lambda function in [no active file] on line 0
+[10-Oct-2019 13:44:57 UTC] PHP Fatal error:  Cannot destroy active lambda function in [no active file] on line 0
+[10-Oct-2019 13:53:06 UTC] PHP Fatal error:  Cannot destroy active lambda function in [no active file] on line 0
+[10-Oct-2019 14:08:17 UTC] PHP Fatal error:  Cannot destroy active lambda function in [no active file] on line 0
+[11-Oct-2019 12:26:06 Asia/Manila] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 72 bytes) in /home/glennong/public_html/reports/vendor/phpoffice/phpexcel/Classes/PHPExcel/Cell.php on line 587
+[11-Oct-2019 04:41:30 UTC] PHP Fatal error:  Cannot destroy active lambda function in [no active file] on line 0
+[11-Oct-2019 04:54:45 UTC] PHP Fatal error:  Cannot destroy active lambda function in [no active file] on line 0
+[11-Oct-2019 05:27:59 UTC] PHP Fatal error:  Cannot destroy active lambda function in [no active file] on line 0
+[11-Oct-2019 07:37:28 UTC] PHP Fatal error:  Cannot destroy active lambda function in [no active file] on line 0
+[11-Oct-2019 08:40:43 UTC] PHP Fatal error:  Cannot destroy active lambda function in [no active file] on line 0
+[11-Oct-2019 08:49:40 UTC] PHP Fatal error:  Cannot destroy active lambda function in [no active file] on line 0
+[11-Oct-2019 09:32:56 UTC] PHP Fatal error:  Cannot destroy active lambda function in [no active file] on line 0
+[11-Oct-2019 09:45:58 UTC] PHP Fatal error:  Cannot destroy active lambda function in [no active file] on line 0
+[11-Oct-2019 09:52:19 UTC] PHP Fatal error:  Cannot destroy active lambda function in [no active file] on line 0
+[15-Oct-2019 08:50:54 UTC] PHP Fatal error:  Cannot destroy active lambda function in [no active file] on line 0
+[15-Oct-2019 10:21:15 UTC] PHP Fatal error:  Cannot destroy active lambda function in [no active file] on line 0
+[16-Oct-2019 02:20:18 Asia/Manila] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 79 bytes) in /home/glennong/public_html/reports-test/vendor/phpoffice/phpexcel/Classes/PHPExcel/CachedObjectStorage/Memory.php on line 107
+[16-Oct-2019 02:36:06 Asia/Manila] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 79 bytes) in /home/glennong/public_html/reports-test/vendor/phpoffice/phpexcel/Classes/PHPExcel/CachedObjectStorage/Memory.php on line 107
+[14-Dec-2019 18:32:44 Asia/Manila] PHP Fatal error:  Class 'App\Http\Controllers\Brand' not found in /home/glennong/public_html/imfs/app/Http/Controllers/AdminSegmentationsController.php on line 236
+[19-Dec-2019 14:32:22 Asia/Manila] PHP Fatal error:  Class 'App\Http\Controllers\Input' not found in /home/glennong/public_html/imfs/app/Http/Controllers/AdminMenuItemsController.php on line 344
+[19-Dec-2019 14:50:22 Asia/Manila] PHP Fatal error:  Class 'App\Http\Controllers\ApprovalWorkflowSetting' not found in /home/glennong/public_html/imfs/app/Http/Controllers/AdminMenuItemsController.php on line 357
+[19-Dec-2019 15:18:28 Asia/Manila] PHP Fatal error:  Class 'App\Http\Controllers\ApprovalWorkflowSetting' not found in /home/glennong/public_html/imfs/app/Http/Controllers/AdminMenuItemApprovalsController.php on line 319
+[19-Dec-2019 17:42:44 Asia/Manila] PHP Fatal error:  Class 'App\Http\Controllers\Input' not found in /home/glennong/public_html/imfs/app/Http/Controllers/AdminMenuItemApprovalsController.php on line 553
+[19-Dec-2019 19:38:48 Asia/Manila] PHP Fatal error:  Class 'App\Http\Controllers\Excel' not found in /home/glennong/public_html/imfs/app/Http/Controllers/AdminItemMastersController.php on line 1826
+[26-Dec-2019 15:50:55 Asia/Manila] PHP Fatal error:  Call to undefined method Illuminate\Database\MySqlConnection::alter() in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminSegmentationsController.php on line 291
+[26-Dec-2019 15:51:43 Asia/Manila] PHP Parse error:  syntax error, unexpected '::' (T_PAAMAYIM_NEKUDOTAYIM) in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminSegmentationsController.php on line 291
+[27-Dec-2019 10:54:55 Asia/Manila] PHP Parse error:  syntax error, unexpected ',' in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1196
+[27-Dec-2019 10:55:37 Asia/Manila] PHP Parse error:  syntax error, unexpected ',' in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1196
+[27-Dec-2019 10:55:43 Asia/Manila] PHP Parse error:  syntax error, unexpected ',' in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1196
+[27-Dec-2019 10:55:47 Asia/Manila] PHP Parse error:  syntax error, unexpected ',' in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1196
+[27-Dec-2019 11:00:09 Asia/Manila] PHP Parse error:  syntax error, unexpected ',' in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1196
+[27-Dec-2019 11:00:11 Asia/Manila] PHP Parse error:  syntax error, unexpected ',' in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1196
+[27-Dec-2019 11:00:12 Asia/Manila] PHP Parse error:  syntax error, unexpected ',' in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1196
+[27-Dec-2019 11:00:13 Asia/Manila] PHP Parse error:  syntax error, unexpected ',' in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1196
+[27-Dec-2019 11:00:13 Asia/Manila] PHP Parse error:  syntax error, unexpected ',' in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1196
+[27-Dec-2019 11:00:13 Asia/Manila] PHP Parse error:  syntax error, unexpected ',' in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1196
+[27-Dec-2019 11:00:14 Asia/Manila] PHP Parse error:  syntax error, unexpected ',' in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1196
+[27-Dec-2019 11:00:15 Asia/Manila] PHP Parse error:  syntax error, unexpected ',' in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1196
+[27-Dec-2019 11:00:15 Asia/Manila] PHP Parse error:  syntax error, unexpected ',' in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1196
+[27-Dec-2019 11:00:15 Asia/Manila] PHP Parse error:  syntax error, unexpected ',' in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1196
+[27-Dec-2019 11:00:16 Asia/Manila] PHP Parse error:  syntax error, unexpected ',' in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1196
+[27-Dec-2019 11:00:16 Asia/Manila] PHP Parse error:  syntax error, unexpected ',' in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1196
+[27-Dec-2019 11:00:16 Asia/Manila] PHP Parse error:  syntax error, unexpected ',' in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1196
+[27-Dec-2019 11:00:16 Asia/Manila] PHP Parse error:  syntax error, unexpected ',' in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1196
+[27-Dec-2019 11:00:17 Asia/Manila] PHP Parse error:  syntax error, unexpected ',' in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1196
+[27-Dec-2019 11:00:17 Asia/Manila] PHP Parse error:  syntax error, unexpected ',' in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1196
+[27-Dec-2019 11:01:10 Asia/Manila] PHP Parse error:  syntax error, unexpected ',' in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1196
+[27-Dec-2019 11:01:12 Asia/Manila] PHP Parse error:  syntax error, unexpected ',' in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1196
+[27-Dec-2019 11:18:52 Asia/Manila] PHP Parse error:  syntax error, unexpected 'user1' (T_STRING) in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1191
+[27-Dec-2019 12:15:45 Asia/Manila] PHP Fatal error:  Call to undefined function App\Http\Controllers\parse() in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1153
+[27-Dec-2019 12:15:46 Asia/Manila] PHP Fatal error:  Call to undefined function App\Http\Controllers\parse() in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1153
+[27-Dec-2019 13:36:29 Asia/Manila] PHP Warning:  Uncaught exception 'ErrorException' with message 'Object of class Illuminate\Database\Query\Builder could not be converted to string' in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php:1209
+Stack trace:
+#0 /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php(1209): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(4096, 'Object of class...', '/home/glennong/...', 1209, Array)
+#1 [internal function]: App\Http\Controllers\AdminItemMastersController->customExportExcel(Object(Illuminate\Support\Facades\Request))
+#2 /home/glennong/public_html/imfs-test.tasteless.com.ph/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(55): call_user_func_array(Array, Array)
+#3 /home/glennong/public_html/imfs-test.tasteless.com.ph/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(44): Illuminate\Routing\Controller->callAction('customExportExc...', Array)
+#4 /home/glennong/pub in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1209
+[27-Dec-2019 13:36:29 Asia/Manila] PHP Fatal error:  Object of class Illuminate\Database\Query\Builder could not be converted to string in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1209
+[27-Dec-2019 13:36:30 Asia/Manila] PHP Warning:  Uncaught exception 'ErrorException' with message 'Object of class Illuminate\Database\Query\Builder could not be converted to string' in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php:1209
+Stack trace:
+#0 /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php(1209): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(4096, 'Object of class...', '/home/glennong/...', 1209, Array)
+#1 [internal function]: App\Http\Controllers\AdminItemMastersController->customExportExcel(Object(Illuminate\Support\Facades\Request))
+#2 /home/glennong/public_html/imfs-test.tasteless.com.ph/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(55): call_user_func_array(Array, Array)
+#3 /home/glennong/public_html/imfs-test.tasteless.com.ph/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(44): Illuminate\Routing\Controller->callAction('customExportExc...', Array)
+#4 /home/glennong/pub in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1209
+[27-Dec-2019 13:36:30 Asia/Manila] PHP Fatal error:  Object of class Illuminate\Database\Query\Builder could not be converted to string in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1209
+[27-Dec-2019 13:36:37 Asia/Manila] PHP Warning:  Uncaught exception 'ErrorException' with message 'Object of class Illuminate\Database\Query\Builder could not be converted to string' in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php:1208
+Stack trace:
+#0 /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php(1208): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(4096, 'Object of class...', '/home/glennong/...', 1208, Array)
+#1 [internal function]: App\Http\Controllers\AdminItemMastersController->customExportExcel(Object(Illuminate\Support\Facades\Request))
+#2 /home/glennong/public_html/imfs-test.tasteless.com.ph/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(55): call_user_func_array(Array, Array)
+#3 /home/glennong/public_html/imfs-test.tasteless.com.ph/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(44): Illuminate\Routing\Controller->callAction('customExportExc...', Array)
+#4 /home/glennong/pub in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1208
+[27-Dec-2019 13:36:37 Asia/Manila] PHP Fatal error:  Object of class Illuminate\Database\Query\Builder could not be converted to string in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1208
+[27-Dec-2019 13:36:39 Asia/Manila] PHP Warning:  Uncaught exception 'ErrorException' with message 'Object of class Illuminate\Database\Query\Builder could not be converted to string' in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php:1208
+Stack trace:
+#0 /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php(1208): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(4096, 'Object of class...', '/home/glennong/...', 1208, Array)
+#1 [internal function]: App\Http\Controllers\AdminItemMastersController->customExportExcel(Object(Illuminate\Support\Facades\Request))
+#2 /home/glennong/public_html/imfs-test.tasteless.com.ph/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(55): call_user_func_array(Array, Array)
+#3 /home/glennong/public_html/imfs-test.tasteless.com.ph/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(44): Illuminate\Routing\Controller->callAction('customExportExc...', Array)
+#4 /home/glennong/pub in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1208
+[27-Dec-2019 13:36:39 Asia/Manila] PHP Fatal error:  Object of class Illuminate\Database\Query\Builder could not be converted to string in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1208
+[27-Dec-2019 13:36:42 Asia/Manila] PHP Warning:  Uncaught exception 'ErrorException' with message 'Object of class Illuminate\Database\Query\Builder could not be converted to string' in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php:1208
+Stack trace:
+#0 /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php(1208): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(4096, 'Object of class...', '/home/glennong/...', 1208, Array)
+#1 [internal function]: App\Http\Controllers\AdminItemMastersController->customExportExcel(Object(Illuminate\Support\Facades\Request))
+#2 /home/glennong/public_html/imfs-test.tasteless.com.ph/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(55): call_user_func_array(Array, Array)
+#3 /home/glennong/public_html/imfs-test.tasteless.com.ph/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(44): Illuminate\Routing\Controller->callAction('customExportExc...', Array)
+#4 /home/glennong/pub in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1208
+[27-Dec-2019 13:36:42 Asia/Manila] PHP Fatal error:  Object of class Illuminate\Database\Query\Builder could not be converted to string in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1208
+[27-Dec-2019 13:36:43 Asia/Manila] PHP Warning:  Uncaught exception 'ErrorException' with message 'Object of class Illuminate\Database\Query\Builder could not be converted to string' in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php:1208
+Stack trace:
+#0 /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php(1208): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(4096, 'Object of class...', '/home/glennong/...', 1208, Array)
+#1 [internal function]: App\Http\Controllers\AdminItemMastersController->customExportExcel(Object(Illuminate\Support\Facades\Request))
+#2 /home/glennong/public_html/imfs-test.tasteless.com.ph/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(55): call_user_func_array(Array, Array)
+#3 /home/glennong/public_html/imfs-test.tasteless.com.ph/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(44): Illuminate\Routing\Controller->callAction('customExportExc...', Array)
+#4 /home/glennong/pub in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1208
+[27-Dec-2019 13:36:43 Asia/Manila] PHP Fatal error:  Object of class Illuminate\Database\Query\Builder could not be converted to string in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1208
+[27-Dec-2019 13:36:51 Asia/Manila] PHP Warning:  Uncaught exception 'ErrorException' with message 'Object of class Illuminate\Database\Query\Builder could not be converted to string' in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php:1208
+Stack trace:
+#0 /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php(1208): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(4096, 'Object of class...', '/home/glennong/...', 1208, Array)
+#1 [internal function]: App\Http\Controllers\AdminItemMastersController->customExportExcel(Object(Illuminate\Support\Facades\Request))
+#2 /home/glennong/public_html/imfs-test.tasteless.com.ph/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(55): call_user_func_array(Array, Array)
+#3 /home/glennong/public_html/imfs-test.tasteless.com.ph/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(44): Illuminate\Routing\Controller->callAction('customExportExc...', Array)
+#4 /home/glennong/pub in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1208
+[27-Dec-2019 13:36:51 Asia/Manila] PHP Fatal error:  Object of class Illuminate\Database\Query\Builder could not be converted to string in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1208
+[27-Dec-2019 13:36:52 Asia/Manila] PHP Warning:  Uncaught exception 'ErrorException' with message 'Object of class Illuminate\Database\Query\Builder could not be converted to string' in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php:1208
+Stack trace:
+#0 /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php(1208): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(4096, 'Object of class...', '/home/glennong/...', 1208, Array)
+#1 [internal function]: App\Http\Controllers\AdminItemMastersController->customExportExcel(Object(Illuminate\Support\Facades\Request))
+#2 /home/glennong/public_html/imfs-test.tasteless.com.ph/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(55): call_user_func_array(Array, Array)
+#3 /home/glennong/public_html/imfs-test.tasteless.com.ph/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(44): Illuminate\Routing\Controller->callAction('customExportExc...', Array)
+#4 /home/glennong/pub in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1208
+[27-Dec-2019 13:36:52 Asia/Manila] PHP Fatal error:  Object of class Illuminate\Database\Query\Builder could not be converted to string in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1208
+[27-Dec-2019 13:38:50 Asia/Manila] PHP Warning:  Uncaught exception 'ErrorException' with message 'Object of class Illuminate\Database\Query\Builder could not be converted to string' in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php:1210
+Stack trace:
+#0 /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php(1210): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(4096, 'Object of class...', '/home/glennong/...', 1210, Array)
+#1 [internal function]: App\Http\Controllers\AdminItemMastersController->customExportExcel(Object(Illuminate\Support\Facades\Request))
+#2 /home/glennong/public_html/imfs-test.tasteless.com.ph/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(55): call_user_func_array(Array, Array)
+#3 /home/glennong/public_html/imfs-test.tasteless.com.ph/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(44): Illuminate\Routing\Controller->callAction('customExportExc...', Array)
+#4 /home/glennong/pub in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1210
+[27-Dec-2019 13:38:50 Asia/Manila] PHP Fatal error:  Object of class Illuminate\Database\Query\Builder could not be converted to string in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1210
+[27-Dec-2019 13:38:51 Asia/Manila] PHP Warning:  Uncaught exception 'ErrorException' with message 'Object of class Illuminate\Database\Query\Builder could not be converted to string' in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php:1210
+Stack trace:
+#0 /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php(1210): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(4096, 'Object of class...', '/home/glennong/...', 1210, Array)
+#1 [internal function]: App\Http\Controllers\AdminItemMastersController->customExportExcel(Object(Illuminate\Support\Facades\Request))
+#2 /home/glennong/public_html/imfs-test.tasteless.com.ph/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(55): call_user_func_array(Array, Array)
+#3 /home/glennong/public_html/imfs-test.tasteless.com.ph/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(44): Illuminate\Routing\Controller->callAction('customExportExc...', Array)
+#4 /home/glennong/pub in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1210
+[27-Dec-2019 13:38:51 Asia/Manila] PHP Fatal error:  Object of class Illuminate\Database\Query\Builder could not be converted to string in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1210
+[27-Dec-2019 13:38:56 Asia/Manila] PHP Warning:  Uncaught exception 'ErrorException' with message 'Object of class Illuminate\Database\Query\Builder could not be converted to string' in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php:1210
+Stack trace:
+#0 /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php(1210): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(4096, 'Object of class...', '/home/glennong/...', 1210, Array)
+#1 [internal function]: App\Http\Controllers\AdminItemMastersController->customExportExcel(Object(Illuminate\Support\Facades\Request))
+#2 /home/glennong/public_html/imfs-test.tasteless.com.ph/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(55): call_user_func_array(Array, Array)
+#3 /home/glennong/public_html/imfs-test.tasteless.com.ph/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(44): Illuminate\Routing\Controller->callAction('customExportExc...', Array)
+#4 /home/glennong/pub in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1210
+[27-Dec-2019 13:38:56 Asia/Manila] PHP Fatal error:  Object of class Illuminate\Database\Query\Builder could not be converted to string in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1210
+[27-Dec-2019 13:38:57 Asia/Manila] PHP Warning:  Uncaught exception 'ErrorException' with message 'Object of class Illuminate\Database\Query\Builder could not be converted to string' in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php:1210
+Stack trace:
+#0 /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php(1210): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(4096, 'Object of class...', '/home/glennong/...', 1210, Array)
+#1 [internal function]: App\Http\Controllers\AdminItemMastersController->customExportExcel(Object(Illuminate\Support\Facades\Request))
+#2 /home/glennong/public_html/imfs-test.tasteless.com.ph/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(55): call_user_func_array(Array, Array)
+#3 /home/glennong/public_html/imfs-test.tasteless.com.ph/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(44): Illuminate\Routing\Controller->callAction('customExportExc...', Array)
+#4 /home/glennong/pub in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1210
+[27-Dec-2019 13:38:57 Asia/Manila] PHP Fatal error:  Object of class Illuminate\Database\Query\Builder could not be converted to string in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1210
+[27-Dec-2019 14:37:45 Asia/Manila] PHP Parse error:  syntax error, unexpected '', '' (T_CONSTANT_ENCAPSED_STRING) in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1333
+[06-Jan-2020 15:49:31 Asia/Manila] PHP Fatal error:  Class 'App\Http\Controllers\Input' not found in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemApprovalController.php on line 2041
+[06-Jan-2020 16:52:18 Asia/Manila] PHP Fatal error:  Class 'App\Http\Controllers\Carbon' not found in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1726
+[06-Jan-2020 17:23:27 Asia/Manila] PHP Parse error:  syntax error, unexpected '.', expecting ')' in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1731
+[06-Jan-2020 17:24:02 Asia/Manila] PHP Parse error:  syntax error, unexpected '.', expecting ')' in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1731
+[06-Jan-2020 17:24:03 Asia/Manila] PHP Parse error:  syntax error, unexpected '.', expecting ')' in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1731
+[06-Jan-2020 17:25:06 Asia/Manila] PHP Parse error:  syntax error, unexpected '.', expecting ')' in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1731
+[06-Jan-2020 17:25:07 Asia/Manila] PHP Parse error:  syntax error, unexpected '.', expecting ')' in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1731
+[06-Jan-2020 17:26:03 Asia/Manila] PHP Parse error:  syntax error, unexpected '.', expecting ')' in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1731
+[06-Jan-2020 17:26:03 Asia/Manila] PHP Parse error:  syntax error, unexpected '.', expecting ')' in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1731
+[06-Jan-2020 17:37:04 Asia/Manila] PHP Parse error:  syntax error, unexpected ')' in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1732
+[06-Jan-2020 17:37:04 Asia/Manila] PHP Parse error:  syntax error, unexpected ')' in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1732
+[06-Jan-2020 18:05:50 Asia/Manila] PHP Fatal error:  Call to a member function getRealPath() on null in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1788
+[06-Jan-2020 18:11:04 Asia/Manila] PHP Fatal error:  Call to undefined method Illuminate\Support\Facades\Request::file() in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1762
+[06-Jan-2020 18:11:55 Asia/Manila] PHP Fatal error:  Call to undefined method Illuminate\Support\Facades\Request::file() in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1764
+[06-Jan-2020 18:12:09 Asia/Manila] PHP Fatal error:  Call to undefined method Illuminate\Support\Facades\Request::file() in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1764
+[06-Jan-2020 18:12:59 Asia/Manila] PHP Fatal error:  Cannot use Illuminate\Http\Request as Request because the name is already in use in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 12
+[06-Jan-2020 18:13:04 Asia/Manila] PHP Fatal error:  Cannot use Illuminate\Http\Request as Request because the name is already in use in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 12
+[06-Jan-2020 18:13:06 Asia/Manila] PHP Fatal error:  Cannot use Illuminate\Http\Request as Request because the name is already in use in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 12
+[06-Jan-2020 18:13:09 Asia/Manila] PHP Fatal error:  Cannot use Illuminate\Http\Request as Request because the name is already in use in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 12
+[06-Jan-2020 18:13:13 Asia/Manila] PHP Fatal error:  Cannot use Illuminate\Http\Request as Request because the name is already in use in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 12
+[06-Jan-2020 18:13:29 Asia/Manila] PHP Fatal error:  Cannot use Excel as Excel because the name is already in use in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 16
+[06-Jan-2020 18:13:58 Asia/Manila] PHP Fatal error:  Call to a member function getClientOriginalExtension() on null in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1770
+[06-Jan-2020 18:14:22 Asia/Manila] PHP Fatal error:  Call to undefined method Illuminate\Support\Facades\Request::file() in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1765
+[06-Jan-2020 18:15:47 Asia/Manila] PHP Fatal error:  Call to undefined method Illuminate\Support\Facades\Request::file() in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1765
+[06-Jan-2020 18:16:03 Asia/Manila] PHP Fatal error:  Call to undefined method Illuminate\Support\Facades\Request::file() in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1765
+[06-Jan-2020 18:16:55 Asia/Manila] PHP Fatal error:  Call to undefined method Illuminate\Support\Facades\Request::file() in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1765
+[06-Jan-2020 18:20:38 Asia/Manila] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1800
+[06-Jan-2020 18:20:43 Asia/Manila] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1800
+[06-Jan-2020 18:20:51 Asia/Manila] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1800
+[06-Jan-2020 18:20:55 Asia/Manila] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1800
+[06-Jan-2020 18:29:05 Asia/Manila] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1806
+[06-Jan-2020 18:29:10 Asia/Manila] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1806
+[06-Jan-2020 18:29:19 Asia/Manila] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1806
+[06-Jan-2020 18:30:12 Asia/Manila] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1806
+[06-Jan-2020 18:30:15 Asia/Manila] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1806
+[06-Jan-2020 18:31:05 Asia/Manila] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1806
+[06-Jan-2020 18:31:08 Asia/Manila] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1806
+[06-Jan-2020 18:32:04 Asia/Manila] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1806
+[06-Jan-2020 18:32:04 Asia/Manila] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1806
+[06-Jan-2020 18:45:59 Asia/Manila] PHP Parse error:  syntax error, unexpected 'dd' (T_STRING) in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1811
+[06-Jan-2020 18:46:07 Asia/Manila] PHP Parse error:  syntax error, unexpected 'dd' (T_STRING) in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1811
+[06-Jan-2020 18:59:11 Asia/Manila] PHP Fatal error:  Class 'App\Http\Controllers\BatchInformation' not found in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1839
+[06-Jan-2020 11:17:58 UTC] PHP Fatal error:  Cannot destroy active lambda function in [no active file] on line 0
+[07-Jan-2020 01:46:33 UTC] PHP Fatal error:  Cannot destroy active lambda function in [no active file] on line 0
+[07-Jan-2020 13:48:07 Asia/Manila] PHP Parse error:  syntax error, unexpected '++' (T_INC) in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1827
+[07-Jan-2020 13:48:10 Asia/Manila] PHP Parse error:  syntax error, unexpected '++' (T_INC) in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1827
+[07-Jan-2020 13:48:12 Asia/Manila] PHP Parse error:  syntax error, unexpected '++' (T_INC) in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1827
+[07-Jan-2020 14:18:44 Asia/Manila] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1848
+[07-Jan-2020 14:19:02 Asia/Manila] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1848
+[07-Jan-2020 14:19:02 Asia/Manila] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1848
+[07-Jan-2020 14:25:07 Asia/Manila] PHP Parse error:  syntax error, unexpected ';' in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1851
+[07-Jan-2020 14:25:07 Asia/Manila] PHP Parse error:  syntax error, unexpected ';' in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1851
+[07-Jan-2020 14:26:02 Asia/Manila] PHP Parse error:  syntax error, unexpected ';' in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1847
+[07-Jan-2020 14:26:02 Asia/Manila] PHP Parse error:  syntax error, unexpected ';' in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1847
+[07-Jan-2020 15:14:28 Asia/Manila] PHP Parse error:  syntax error, unexpected ''s_honor);' (T_CONSTANT_ENCAPSED_STRING) in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1824
+[07-Jan-2020 15:21:02 Asia/Manila] PHP Parse error:  syntax error, unexpected '"'"' (T_CONSTANT_ENCAPSED_STRING) in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1814
+[07-Jan-2020 15:21:02 Asia/Manila] PHP Parse error:  syntax error, unexpected '"'"' (T_CONSTANT_ENCAPSED_STRING) in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1814
+[07-Jan-2020 15:22:03 Asia/Manila] PHP Parse error:  syntax error, unexpected '".'."' (T_CONSTANT_ENCAPSED_STRING) in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1814
+[07-Jan-2020 15:22:03 Asia/Manila] PHP Parse error:  syntax error, unexpected '".'."' (T_CONSTANT_ENCAPSED_STRING) in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1814
+[07-Jan-2020 08:06:30 UTC] PHP Fatal error:  Cannot destroy active lambda function in [no active file] on line 0
+[07-Jan-2020 16:15:39 Asia/Manila] PHP Fatal error:  Call to a member function getClientOriginalExtension() on null in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1773
+[07-Jan-2020 08:37:22 UTC] PHP Fatal error:  Cannot destroy active lambda function in [no active file] on line 0
+[07-Jan-2020 08:38:06 UTC] PHP Fatal error:  Cannot destroy active lambda function in [no active file] on line 0
+[07-Jan-2020 08:38:30 UTC] PHP Fatal error:  Cannot destroy active lambda function in [no active file] on line 0
+[07-Jan-2020 08:39:47 UTC] PHP Fatal error:  Cannot destroy active lambda function in [no active file] on line 0
+[07-Jan-2020 09:09:42 UTC] PHP Fatal error:  Cannot destroy active lambda function in [no active file] on line 0
+[07-Jan-2020 09:13:15 UTC] PHP Fatal error:  Cannot destroy active lambda function in [no active file] on line 0
+[07-Jan-2020 09:44:34 UTC] PHP Fatal error:  Cannot destroy active lambda function in [no active file] on line 0
+[07-Jan-2020 09:53:37 UTC] PHP Fatal error:  Cannot destroy active lambda function in [no active file] on line 0
+[07-Jan-2020 10:01:11 UTC] PHP Fatal error:  Cannot destroy active lambda function in [no active file] on line 0
+[07-Jan-2020 18:06:15 Asia/Manila] PHP Parse error:  syntax error, unexpected 'dd' (T_STRING) in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1807
+[07-Jan-2020 10:37:47 UTC] PHP Fatal error:  Cannot destroy active lambda function in [no active file] on line 0
+[07-Jan-2020 18:55:05 Asia/Manila] PHP Parse error:  syntax error, unexpected '*' in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1927
+[07-Jan-2020 18:55:06 Asia/Manila] PHP Parse error:  syntax error, unexpected '*' in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1927
+[07-Jan-2020 18:55:06 Asia/Manila] PHP Parse error:  syntax error, unexpected '*' in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1927
+[07-Jan-2020 18:55:06 Asia/Manila] PHP Parse error:  syntax error, unexpected '*' in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1927
+[07-Jan-2020 18:55:18 Asia/Manila] PHP Parse error:  syntax error, unexpected '*' in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1927
+[07-Jan-2020 18:55:31 Asia/Manila] PHP Parse error:  syntax error, unexpected '*' in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1927
+[07-Jan-2020 18:55:37 Asia/Manila] PHP Parse error:  syntax error, unexpected '*' in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1927
+[07-Jan-2020 11:14:06 UTC] PHP Fatal error:  Cannot destroy active lambda function in [no active file] on line 0
+[07-Jan-2020 11:20:44 UTC] PHP Fatal error:  Cannot destroy active lambda function in [no active file] on line 0
+[08-Jan-2020 10:27:04 Asia/Manila] PHP Fatal error:  Call to a member function getClientOriginalExtension() on null in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1772
+[08-Jan-2020 12:02:25 Asia/Manila] PHP Fatal error:  Call to a member function getClientOriginalExtension() on null in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1777
+[08-Jan-2020 12:08:51 Asia/Manila] PHP Fatal error:  Call to a member function getClientOriginalExtension() on null in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1777
+[08-Jan-2020 12:10:00 Asia/Manila] PHP Fatal error:  Call to a member function getClientOriginalExtension() on null in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1777
+[08-Jan-2020 12:11:50 Asia/Manila] PHP Fatal error:  Call to a member function getClientOriginalExtension() on null in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1777
+[08-Jan-2020 12:12:24 Asia/Manila] PHP Fatal error:  Call to a member function getClientOriginalExtension() on null in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1777
+[08-Jan-2020 12:12:30 Asia/Manila] PHP Fatal error:  Call to a member function getClientOriginalExtension() on null in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1777
+[08-Jan-2020 12:12:32 Asia/Manila] PHP Fatal error:  Call to a member function getClientOriginalExtension() on null in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1777
+[08-Jan-2020 12:16:07 Asia/Manila] PHP Fatal error:  Call to a member function getClientOriginalExtension() on null in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1777
+[08-Jan-2020 12:16:44 Asia/Manila] PHP Fatal error:  Call to a member function getClientOriginalExtension() on null in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 1777
+[09-Jan-2020 18:18:20 Asia/Manila] PHP Fatal error:  Call to undefined function crocodicstudio\crudbooster\helpers\myPrivilegeId() in /home/glennong/public_html/imfs-test.tasteless.com.ph/vendor/crocodicstudio/crudbooster/src/helpers/CRUDBooster.php on line 129
+[10-Jan-2020 15:40:13 Asia/Manila] PHP Fatal error:  Class 'App\Http\Controllers\Group' not found in /home/glennong/public_html/imfs-test.tasteless.com.ph/app/Http/Controllers/AdminItemMastersController.php on line 689
+[01-Feb-2020 13:01:09 Asia/Manila] PHP Parse error:  syntax error, unexpected '"icon"' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/glennong/public_html/imfs/app/Http/Controllers/AdminItemMastersController.php on line 531
+[01-Feb-2020 13:01:11 Asia/Manila] PHP Parse error:  syntax error, unexpected '"icon"' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/glennong/public_html/imfs/app/Http/Controllers/AdminItemMastersController.php on line 531
+[01-Feb-2020 13:01:15 Asia/Manila] PHP Parse error:  syntax error, unexpected '"icon"' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/glennong/public_html/imfs/app/Http/Controllers/AdminItemMastersController.php on line 531
+[01-Feb-2020 13:01:24 Asia/Manila] PHP Parse error:  syntax error, unexpected '"icon"' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/glennong/public_html/imfs/app/Http/Controllers/AdminItemMastersController.php on line 531
+[01-Feb-2020 13:01:32 Asia/Manila] PHP Parse error:  syntax error, unexpected '"icon"' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/glennong/public_html/imfs/app/Http/Controllers/AdminItemMastersController.php on line 531
